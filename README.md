@@ -8,7 +8,7 @@ Projeto simples feito com HTML, CSS e JavaScript.
 - Excluir tarefas
 
 ## 💻 Veja funcionando
-[🔗 Clique aqui para acessar](https://SEU_USUARIO.github.io/todo-list)
+[🔗 Clique aqui para acessar]((https://engsamir.github.io/todo-list-js/))
 
 ## 📦 Como usar
 Clone este repositório e abra o `index.html` no navegador.
